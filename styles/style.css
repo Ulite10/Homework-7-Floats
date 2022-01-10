@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    padding: 40px 52px 42px 53px
+}
+
+.green {
+    background-color: #E0E7CE;
+    padding: 17px 23px 18px 19px;
+    margin-bottom: 30px;
+}
+
+.red {
+    width: 189px;
+    height: 156px;
+    background-color: #F09B9B;
+}
+
+.red-left {
+    float: left;
+}
+
+.red-right {
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.margin {
+    margin-right: 10px;
+}
+
+.center {
+    width: 393px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.red-small {
+    width: 189px;
+    height: 70px;
+    background-color: #F09B9B;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.margin-small {
+    margin-bottom: 15px;
+}
